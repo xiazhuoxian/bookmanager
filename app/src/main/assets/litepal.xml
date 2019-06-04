@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="BookSoftware"></dbname>
+    <version value="5"></version>
+    <list>
+        <mapping class="com.example.terminalwork.Data_Book"></mapping>
+        <mapping class="com.example.terminalwork.Data_Librarian"></mapping>
+        <mapping class="com.example.terminalwork.Data_SystemAdministrator"></mapping>
+        <mapping class="com.example.terminalwork.Data_User"></mapping>
+    </list>
+</litepal>
